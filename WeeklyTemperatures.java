@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class WeeklyTemperatures {
     public static void main(String[] args) {
         ArrayList<String> daysOfWeek = new ArrayList<>();
-        ArrayList<Double> temperatures = new ArrayList<>();
+        ArrayList<Double> temperatures = new ArrayList<>(); 
         Scanner scanner = new Scanner(System.in);
         double totalTemp = 0;
 
